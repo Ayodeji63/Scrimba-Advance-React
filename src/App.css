@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+.round-img {
+    max-width: 50%;
+    width: 150px;
+}
+
+main > h1 {
+  text-align: center;
+}
+
+.callout{
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 20px;
+  background-color: #C0FFFE;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    margin: 10px;
+}
+
+.dark-theme {
+    background-color: #333333;
+    color: whitesmoke;
+    text-transform: capitalize;
+}
+
+.light-theme {
+    background-color: whitesmoke;
+    color: #333333;
+    text-transform: capitalize;
+}

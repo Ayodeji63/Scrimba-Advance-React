@@ -1,6 +1,6 @@
 import React from "react"
-import Menu from "./Module2(React Reuse)/HOC/Menu"
-import Favorite from "./Module2(React Reuse)/HOC/Favorite"
+import Menu from "./Menu"
+import Favorite from "./Favorite"
 
 function App() {
     return (
